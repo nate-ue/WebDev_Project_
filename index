@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+            <title> AnimeStore </title>
+    </head>
+    <body>
+        <header>
+            <h1> Our group will steal code for this LOL!!</h1>
+        </header>
+        <div class="topnav">
+            <input type="text" placeholder="Search..">
+        </div>
+        <nav>
+            <a href="animestore.html">Home</a>
+            <a href="Aboutme.html">About</a>
+            <a href="ContactUs.html">Contact Us</a>
+
+        </nav>
+    </body>
+</html>
