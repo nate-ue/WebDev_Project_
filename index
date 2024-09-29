@@ -9,7 +9,15 @@
             <h1> Our group will steal code for this LOL!!</h1>
         </header>
         <div class="topnav">
-            <input type="text" placeholder="Search..">
+            <input list="animanga">  
+              <datalist id="animanga">    
+                <option value="Jujutsu Kaisen">    
+                <option value="Bleach">    
+                <option value="Attack on Titan">    
+                <option value="One Piece">    
+                <option value="Dragon Ball">  
+              </datalist>  
+             <input type="submit">
         </div>
         <nav>
             <a href="animestore.html">Home</a>
