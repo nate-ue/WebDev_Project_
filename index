@@ -6,8 +6,17 @@
     </head>
     <body>
         <header>
-            <h1> Our group will steal code for this LOL!!</h1>
+            <h1> AnimeStore
+          </h1>
         </header>
+      <hr>
+        <nav>
+            <a href="animestore.html">Home</a>
+            <a href="Aboutme.html">About</a>
+            <a href="ContactUs.html">Contact Us</a>
+          
+          <br>
+        </nav>
         <div class="topnav">
             <input list="animanga">  
               <datalist id="animanga">    
@@ -19,11 +28,5 @@
               </datalist>  
              <input type="submit">
         </div>
-        <nav>
-            <a href="animestore.html">Home</a>
-            <a href="Aboutme.html">About</a>
-            <a href="ContactUs.html">Contact Us</a>
-
-        </nav>
     </body>
 </html>
