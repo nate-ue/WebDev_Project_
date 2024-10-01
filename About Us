@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-            <title> AnimeStore </title>
-    </head>
-    <body>
-        <header>
-            <h1> About Us </h1>
-        </header>
-        <nav>
-            <a href="animestore.html">Home</a>
-            <a href="Aboutme.html">About</a>
-            <a href="ContactUs.html">Contact Us</a>
-        <hr>
-        <header>
-            <h2>Our Website</h2>
-        </header>
-                <p>AnimeStore is a website that contains all the latest and greatest merchandise, manga, and more!<br> 
-                Our aim is to ensure that everything here available are at the best prices possible, not overpriced.<br>
+   <head>
+      <meta charset="utf-8">
+      <title>A simple navigation bar</title>
+      <link rel="stylesheet" href="topnav.css">
+   </head>
+   <body>
+      <nav id="topnav">
+         <a id="logo" class="nav-link" href="#">Home</a>
+         <a class="nav-link" href="#">Popular</a>
+         <a class="nav-link" href="#"> Seasonal</a>
+         <a class="nav-link" href="#">Discounts</a>
+         <a class="nav-link" href="#">About Us</a>
+         <a class="nav-link" href="#">Contact Us</a>
+
+         <a id="cart" class="nav-link" href="#">My Cart</a>
+      </nav>
+     <br><br>
+     <h1> About Us! </h1>
+     <p style="text-align: center;">AnimeStore is a website that contains all the latest and greatest merchandise, manga, and more!</p>
+     
+  <p>Our aim is to ensure that everything here available are at the best prices possible, not overpriced.<br>
                 Don't worry, we completely understand what it's like having to face unbelieveable prices and seem like it's out of reach.</p>
         <body>
             <img src="https://th.bing.com/th/id/R.308d8ba9378809e6cd52bc5c4f77f6eb?rik=PyWsMa%2flFuqa5g&pid=ImgRaw&r=0" style="width:20%"/>
@@ -32,4 +35,54 @@
         </body>
         </nav>
     </body>
+<footer>
+  <p> Written by Garreth </p>
+</footer>
 </html>
+
+
+CSS CODE: =======================================================================================================
+
+#topnav {
+   width: 100%;
+
+   position: fixed;
+   top: 0;
+   left: 0;
+
+   background-color: Black;
+
+   font-family: Arial, sans-serif;
+   font-size: 15px;
+}
+
+.nav-link {
+   display: inline-block;
+   width: 100px;
+   height: 55px;
+
+   color: White;
+
+   text-align: center;
+   line-height: 55px;
+
+   text-decoration: none;
+}
+
+#logo {
+   width: 120px;
+
+   background-color: RoyalBlue;
+
+   font-weight: bold;
+}
+
+#cart {
+   position: absolute;
+   top: 0;
+   right: 0;
+}
+
+h1 {
+  text-align: center;
+}
