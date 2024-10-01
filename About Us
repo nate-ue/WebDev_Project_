@@ -6,13 +6,30 @@
     </head>
     <body>
         <header>
-            <h1> About me </h1>
+            <h1> About Us </h1>
         </header>
         <nav>
             <a href="animestore.html">Home</a>
             <a href="Aboutme.html">About</a>
             <a href="ContactUs.html">Contact Us</a>
-
+        <hr>
+        <header>
+            <h2>Our Website</h2>
+        </header>
+                <p>AnimeStore is a website that contains all the latest and greatest merchandise, manga, and more!<br> 
+                Our aim is to ensure that everything here available are at the best prices possible, not overpriced.<br>
+                Don't worry, we completely understand what it's like having to face unbelieveable prices and seem like it's out of reach.</p>
+        <body>
+            <img src="https://th.bing.com/th/id/R.308d8ba9378809e6cd52bc5c4f77f6eb?rik=PyWsMa%2flFuqa5g&pid=ImgRaw&r=0" style="width:20%"/>
+        </body>
+            <h2>We're Different Than The Rest</h2>
+                <p>Here, we want to have <b>VARIETY</b>.<br> 
+                We want all the possible products out there to be readily available in our store.<br>
+                We've seen it all. Other websites out there are limited in their products, whereas at AnimeStore we have <b>ZERO</b> compromises.<br>
+                It's all here in one place, anything you could think of, we have it here at AnimeStore.</p>
+        <body>
+            <img src="https://wallpapercave.com/wp/wp5146358.jpg" style="width:30%"/>
+        </body>
         </nav>
     </body>
 </html>
