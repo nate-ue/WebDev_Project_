@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <title>A simple navigation bar</title>
-      <link rel="stylesheet" href="topnav.css">
+      <link rel="stylesheet" href="contact.css">
    </head>
    <body>
       <nav id="topnav">
@@ -97,6 +97,7 @@
 
 </html>
 
+
 CSS CODE: ======================================================================================================
 
 #topnav {
@@ -142,6 +143,3 @@ CSS CODE: ======================================================================
 h1 {
   text-align: center;
 }
-
-
-
