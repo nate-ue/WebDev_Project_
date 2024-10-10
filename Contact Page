@@ -17,24 +17,24 @@
          <a id="cart" class="nav-link" href="#">My Cart</a>
       </nav>
      <br><br>
-     <h1> Contact Us! </h1>
-     <p style="text-align: center;">Get in touch with our team for all things queries and questions on AnimeStore!</p>
-
-     <h2> Contact Information: </h2>
+     <h1 id="fontFamily"> Contact Us! </h1>
+     <p id="fontFamily" style="text-align: center;">Get in touch with our team for all things queries and questions on AnimeStore!</p>
+<hr>
+     <h2 id="fontFamily"> Contact Information: </h2>
      
-     <p> Mobile No.: +353 99999999 </p>
-     <p> E-mail: <a href="#">myemail.com</a>
-      <h3> Social Media Links: </h3>
+     <p id="fontFamily"> Mobile No.: +353 99999999 </p>
+     <p id="fontFamily"> E-mail: <a href="#">myemail.com</a>
+      <h3 id="fontFamily"> Social Media Links: </h3>
 
       <ul>
-        <Li> Instagram - <a href="#">AnimeStores</a> </Li><br>
-        <Li> Facebook - <a href="#">AnimeStores</a> </Li><br>
-        <Li> TikTok - <a href="#">AnimeStores</a> </Li> <br>
+        <Li id="fontFamily"> Instagram - <a href="#">AnimeStores</a> </Li><br>
+        <Li id="fontFamily"> Facebook - <a href="#">AnimeStores</a> </Li><br>
+        <Li id="fontFamily"> TikTok - <a href="#">AnimeStores</a> </Li> <br>
 
-        <p> Have a specific problem? Fill in our customer support form </p>
+        <p id="fontFamily"> Have a specific problem? Fill in our customer support form </p id="fontFamily">
 
         <form>  
-  <fieldset> <legend>Query Form: </legend>      
+  <fieldset> <legend>Query Form: </legend>        
 
        Name: <input type="text"> <br><br>
        Email: <input type="text"> <br><br>
@@ -58,11 +58,11 @@
 <meta charset="UTF-8">
 
     <meta name="viewport" content=device-width, intial-scale="1.0">
-    <title>Contact Hours</title>
+    <title id="fontFamily">Contact Hours</title>
 
     <style>
         .contact-hours{
-            font-family: Arial, sans-serif;
+            font-family: Quicksand, sans-serif;
             margin: 20px:
         }
         .contact-hours h2{
@@ -92,7 +92,7 @@
     </body>
 
       <footer>
-        <p> Thank you for using our services! </p>
+        <p id="fontFamily"> Thank you for using our services! </p>
       </footer>
 
 </html>
@@ -109,8 +109,8 @@ CSS CODE: ======================================================================
 
    background-color: Black;
 
-   font-family: Arial, sans-serif;
-   font-size: 15px;
+   font-family: Quicksand, sans-serif;
+   font-size: 20px;
 }
 
 .nav-link {
@@ -142,4 +142,8 @@ CSS CODE: ======================================================================
 
 h1 {
   text-align: center;
+}
+
+#fontFamily{
+  font-family: Quicksand, sans-serif;
 }
