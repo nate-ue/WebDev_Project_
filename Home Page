@@ -111,7 +111,7 @@ body {
 
 body{
   background: #f2f2f2;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .search {
@@ -165,8 +165,8 @@ body{
 
    background-color: Black;
 
-   font-family: Arial, sans-serif;
-   font-size: 15px;
+   font-family: Quicksand, sans-serif;
+   font-size: 20px;
 }
 
 .nav-link {
