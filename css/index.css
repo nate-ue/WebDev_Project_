@@ -269,4 +269,11 @@ textarea {
   border-color: #125688;
 }
 
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem;
+    }
+}
+
+
 
