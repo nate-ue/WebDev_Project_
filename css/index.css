@@ -1,6 +1,6 @@
 body {
 	background-color: #f8fafc;
-	background-image: url("https://nate-ue.github.io/WebDev_Project_/background1.jpg.jpg");
+	background-image: url("../Media/background1.jpg.jpg");
   	background-size: cover;
   	background-position: center;
   	background-repeat: no-repeat;
@@ -71,7 +71,6 @@ h1 {
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
-  padding-bottom: 40px;
   font-family: 'Open Sans', sans-serif;
 }
 
