@@ -1,18 +1,19 @@
 @charset "UTF-8";
 
 body {
+	
 	background-color: transparent;
-	background-image: url("background1.jpg");
-  background-size: cover;
-  background-position: center;
-  backdrop-filter: blur(8px);
-  height: 100vh;
-  margin: 0;
+	background-image: url("../WebDev_Project_/background1.jpg");
+	background-size: cover;
+	background-position: center;
+	backdrop-filter: blur(8px);
+	height: 100vh;
+	margin: 0;
 }
 
 h1 {
 	text-align: center;
-  color: #fefefe;
+	color: #fefefe;
 }
 .container {
 	padding: 2rem;
