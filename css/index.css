@@ -1,8 +1,12 @@
 body {
 	background-color: #f8fafc;
-	background-image: url("background.jpg")
+	background-image: url("Media/background1.jpg.jpg");
+  	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	height: 100vh;
+  	margin: 0;
 }
-
 h1 {
 	text-align: center;
 }
