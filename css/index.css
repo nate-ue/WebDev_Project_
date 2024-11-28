@@ -1,23 +1,24 @@
+@charset "UTF-8";
+
 body {
 	background-color: transparent;
-	background-image: url("../WebDev_Project_/background1.jpg");
+	background-image: url("background1.jpg");
   background-size: cover;
   background-position: center;
   backdrop-filter: blur(8px);
   height: 100vh;
   margin: 0;
-	
 }
+
 h1 {
 	text-align: center;
+  color: #fefefe;
 }
 .container {
 	padding: 2rem;
 	background-color: transparent;
 }
-body, .container {
-	
-}
+
 .slider-wrapper {
 	position: relative;
         top: 0px;
@@ -62,7 +63,7 @@ body, .container {
 	width: 0.5rem;
 	height: 0.5rem;
 	border-radius: 50%;
-	background-color: transparent;
+	background-color: #fff;
 	opacity: 0.75;
 	transition: opacity ease 250ms;
 }
@@ -74,6 +75,7 @@ body, .container {
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
+  
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -124,7 +126,7 @@ body{
    top: 0;
    left: 0;
 
-   background-color: Black;
+   background-color: black;
 
    font-family: Arial, sans-serif;
    font-size: 15px;
@@ -175,7 +177,6 @@ textarea {
   white-space: nowrap;
 }
 
-@charset "UTF-8";
 
 .svg-inline--fa {
   vertical-align: -0.200em;
@@ -280,6 +281,3 @@ textarea {
         padding: 1rem;
     }
 }
-
-
-
