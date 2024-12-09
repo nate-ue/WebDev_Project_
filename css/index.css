@@ -11,7 +11,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: #fefefe;
+	color: transparent;
 }
 .container {
 	padding: 2rem;
@@ -195,7 +195,7 @@ textarea {
   padding: 0;
   text-decoration: none;
   text-align: center;
-  color: #fefefe;
+  color: transparent;
   font-size: 1.5625rem;
   font-weight: normal;
   line-height: 2em;
@@ -221,7 +221,7 @@ textarea {
 
 .rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
   color: #3b5998;
-  background: #fefefe;
+  background: transparent;
   border-color: #3b5998;
 }
 
@@ -231,7 +231,7 @@ textarea {
 
 .rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
   color: #55acee;
-  background: #fefefe;
+  background: transparent;
   border-color: #55acee;
 }
 
@@ -241,7 +241,7 @@ textarea {
 
 .rounded-social-buttons .social-button.linkedin:hover, .rounded-social-buttons .social-button.linkedin:focus {
   color: #007bb5;
-  background: #fefefe;
+  background: transparent;
   border-color: #007bb5;
 }
 
@@ -251,7 +251,7 @@ textarea {
 
 .rounded-social-buttons .social-button.tiktok:hover, .rounded-social-buttons .social-button.tiktok:focus {
   color: #000000;
-  background: #fefefe;
+  background: transparent;
   border-color: #000000;
 }
 
@@ -261,7 +261,7 @@ textarea {
 
 .rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
   color: #bb0000;
-  background: #fefefe;
+  background: transparent;
   border-color: #bb0000;
 }
 
@@ -271,7 +271,7 @@ textarea {
 
 .rounded-social-buttons .social-button.instagram:hover, .rounded-social-buttons .social-button.instagram:focus {
   color: #125688;
-  background: #fefefe;
+  background: transparent;
   border-color: #125688;
 }
 
